@@ -1,0 +1,25 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Códigos de estudo com node-js",
+  "main": "console.js",
+  "scripts": {
+    "start": "node ./aulas/console.js",
+    "teste": "node ./aulas/teste.js",
+    "terminal": "node ./aulas/terminal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdryanPablo/node-js.git"
+  },
+  "keywords": [],
+  "author": "Ádryan Pablo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdryanPablo/node-js/issues"
+  },
+  "homepage": "https://github.com/AdryanPablo/node-js#readme",
+  "dependencies": {
+    "cfonts": "^2.10.0"
+  }
+}
